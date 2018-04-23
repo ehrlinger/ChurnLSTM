@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524492777712.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "790128038",
+    "id" : "527B9160",
+    "lastKnownWriteTime" : 1524492823,
+    "last_content_update" : 1524492851492,
+    "path" : "~/GitHub/ChurnLSTM/Readme.md",
+    "project_path" : "Readme.md",
+    "properties" : {
+        "cursorPosition" : "5,85",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

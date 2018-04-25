@@ -58,9 +58,6 @@ train_test_split
 train_tbl <- training(train_test_split)
 test_tbl  <- testing(train_test_split) 
 
-x_train_tbl$Churn <- ifelse(pull(x_train_tbl, Churn) == "Yes", 1, 0)
-x_test_tbl$Churn <- ifelse(pull(x_test_tbl, Churn) == "Yes", 1, 0)
-
 ```
 
 ## Discretize The “tenure” Feature
